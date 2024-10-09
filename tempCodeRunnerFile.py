@@ -1,0 +1,1 @@
+ await message.answer("✅ Ko'chirib bo'lindi")
